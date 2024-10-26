@@ -1,4 +1,4 @@
-# **VIRTUAL MALL**
+# ** CACHIMAN VIRTUAL MALL**
 
 ## **A better way to shop**
 
@@ -12,7 +12,7 @@ Regular malls just don't cut it for some shoppers. It may be out of the way, onl
 - Top Brand Stores: each with their own website and user experience, leaves the user's browswer cluttered while they find the right items. 
 - 3rd party hosting sites: riddled with ads and popups
 
-### **Meet VIRTUAL MALL**
+### **Meet CACHIMAN VIRTUAL GLOBAL MALL**
 An online shopping experience for users to enjoy! Designed for top brands to host their products for users. 
 - Each brand gets their own space to host and sell
 - The user has only one site they need to worry about
@@ -23,9 +23,9 @@ An online shopping experience for users to enjoy! Designed for top brands to hos
 
 ## ➡️ **GETTING STARTED** ⬅️
 Please visit this link for the full web app!
-https://virtualmallusa.netlify.app/
+https://cachiman.virtualglobalmall.app/
 
-Backend GitHub: https://github.com/pneibaur/Virtual-Mall-Backend
+Backend GitHub: https://github.com/cachiman/Virtual-global-Mall-Backend
 
 ---
 
@@ -63,7 +63,7 @@ Backend GitHub: https://github.com/pneibaur/Virtual-Mall-Backend
 
 ## 🧊 **ICEBOX** 🧊
 
-Virtual Mall is a work in progress! We are planning on implementing the following features in the future: 
+CACHIMAN Virtual Global Mall is a work in progress! We are planning on implementing the following features in the future: 
 - login/logout via Google OAuth
 - Users will be able to add and remove items from their cart
 - Users will be able to see their total and checkout with their items
