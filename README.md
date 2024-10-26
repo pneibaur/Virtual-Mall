@@ -1,4 +1,4 @@
-# **VIRTUAL MALL**
+# ** CACHIMAN VIRTUAL MALL**
 
 ## **A better way to shop**
 
@@ -12,7 +12,7 @@ Regular malls just don't cut it for some shoppers. It may be out of the way, onl
 - Top Brand Stores: each with their own website and user experience, leaves the user's browswer cluttered while they find the right items. 
 - 3rd party hosting sites: riddled with ads and popups
 
-### **Meet VIRTUAL MALL**
+### ** Cachiman VIRTUAL MALL**
 An online shopping experience for users to enjoy! Designed for top brands to host their products for users. 
 - Each brand gets their own space to host and sell
 - The user has only one site they need to worry about
@@ -71,27 +71,4 @@ Virtual Mall is a work in progress! We are planning on implementing the followin
 - For admins, they will be able to add/edit/delete products from their store. 
 - Mall Admins will be able to add/edit/delete stores. 
 
----
 
-## 🖼️ **SCREENSHOTS** 🖼️
-Welcome Page:
-![screenshot](images/Mall%20Welcome.png)
-
-Stores Display:
-![screenshot](images/Stores%20Display.png)
-
-Products Display: 
-![screenshot](images/Product%20Display.png)
-
-Item Viewer: 
-![screenshot](images/Item%20Viewer.png)
-
----
-
-## **WIREFRAMES**
-
-Wireframes: 
-![screenshot](images/wireframes.png)
-
-ERD: 
-![screenshot](images/ERD.png)
